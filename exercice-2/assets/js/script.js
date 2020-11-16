@@ -1,2 +1,2 @@
-var name=""
-alert()
+let name;
+console.log(name);
